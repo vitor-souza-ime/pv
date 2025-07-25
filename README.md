@@ -25,11 +25,6 @@ O produto vetorial é uma operação fundamental da álgebra vetorial, frequente
 
 A visualização é feita com o `matplotlib`, utilizando a função `quiver` para plotar os vetores em um sistema de coordenadas tridimensional. O vetor resultante do produto vetorial é mostrado perpendicular aos vetores originais, conforme prevê a regra da mão direita.
 
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Cross_product_visual.svg/512px-Cross_product_visual.svg.png" alt="Produto Vetorial" width="400"/>
-</p>
-
----
 
 ## ▶️ Como executar
 
